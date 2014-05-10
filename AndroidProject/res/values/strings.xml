@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CoreComplex.cc - Android + Unity3D integration test</string>
+    <string name="hello_world">Native Android view</string>
+    <string name="action_enable">Start Unity3D</string>
+    <string name="action_disable">Stop Unity3D</string>
+
+</resources>
